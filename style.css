@@ -1,0 +1,29 @@
+body {
+  background: white;
+}
+
+.content {
+  text-align: center;
+}
+.btn {
+  background: transparent;
+  border: none;
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.cats {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.random-cats {
+  width: 40%;
+}
+img {
+  max-width: 40%;
+  max-height: 60%;
+}
